@@ -1,0 +1,22 @@
+1	 United States (USA)	5	7	8	20
+2	 China (CHN)	5	3	5	13
+3	 Australia (AUS)	4	0	4	8
+4	 Italy (ITA)	3	4	2	9
+5	 Japan (JPN)	3	0	7	10
+6	 Hungary (HUN)	3	0	0	3
+7	 Russia (RUS)	2	5	3	10
+8	 South Korea (KOR)	2	2	1	5
+9	 Thailand (THA)	2	1	1	4
+10	 France (FRA)	1	2	0	3
+11	 Great Britain (GBR)	1	1	2	4
+12	 Brazil (BRA)*	1	1	0	2
+12 Germany (GER)	1	1	0	2
+12 Sweden (SWE)	1	1	0	2
+15	 Chinese Taipei (TPE)	1	0	2	3
+16	 Belgium (BEL)	1	0	1	2
+17	 Argentina (ARG)	1	0	0	1
+17 Colombia (COL)	1	0	0	1
+17 Croatia (CRO)	1	0	0	1
+17 Kosovo (KOS)	1	0	0	1
+17 Netherlands (NED)	1	0	0	1
+17 Vietnam (VIE)	1	0	0	1

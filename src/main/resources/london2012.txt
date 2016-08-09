@@ -1,0 +1,21 @@
+1	 United States (USA)	46	28	29	103
+2	 China (CHN)	38	29	21	88
+3	 Great Britain (GBR)	29	17	19	65
+4	 Russia (RUS)	22	25	32	79
+5	 South Korea (KOR)	13	8	7	28
+6	 Germany (GER)	11	19	14	44
+7	 France (FRA)	11	11	12	34
+8	 Australia (AUS)	8	17	12	37
+9	 Italy (ITA)	8	9	11	28
+10	 Hungary (HUN)	8	4	6	18
+11	 Japan (JPN)	7	14	17	38
+12	 Kazakhstan (KAZ)	7	1	5	13
+13	 Netherlands (NED)	6	6	8	20
+14	 Ukraine (UKR)	6	5	8	19
+15	 New Zealand (NZL)	6	2	5	13
+16	 Cuba (CUB)	5	3	7	15
+17	 Iran (IRI)	4	5	3	12
+18	 Jamaica (JAM)	4	4	4	12
+19	 Czech Republic (CZE)	4	3	3	10
+20	 North Korea (PRK)	4	0	2	6
+22	 Brazil (BRA)	3	5	9	17
