@@ -9,7 +9,7 @@
 9   Thailand (THA)	2	1	1	4
 10  France (FRA)	1	2	0	3
 11  Great Britain (GBR)	1	1	2	4
-12  Brazil (BRA)*	1	1	0	2
+12  Brazil (BRA)	1	1	0	2
 12  Germany (GER)	1	1	0	2
 12  Sweden (SWE)	1	1	0	2
 15  Chinese Taipei (TPE)	1	0	2	3
