@@ -6,7 +6,8 @@ public class MedalShelf {
     private Integer silver;
     private Integer bronze;
 
-    public MedalShelf() {}
+    public MedalShelf() {
+    }
 
     public MedalShelf(String country) {
         this.country = country;
@@ -52,5 +53,16 @@ public class MedalShelf {
 
     public void setBronze(Integer bronze) {
         this.bronze = bronze;
+    }
+
+    @Override
+    public String toString() {
+        return String.format("%-20s\t%03d\t%03d\t%03d\t%03d",
+                country,
+                gold,
+                silver,
+                bronze,
+                gold + silver + bronze
+        );
     }
 }
