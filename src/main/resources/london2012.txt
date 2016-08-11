@@ -18,4 +18,4 @@
 18	Jamaica (JAM)	4	4	4	12
 19	Czech Republic (CZE)	4	3	3	10
 20	North Korea (PRK)	4	0	2	6
-22	Brazil (BRA)	3	5	9	17
+21	Brazil (BRA)	3	5	9	17

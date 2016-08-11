@@ -20,3 +20,6 @@
 17  Kosovo (KOS)	1	0	0	1
 17  Netherlands (NED)	1	0	0	1
 17  Vietnam (VIE)	1	0	0	1
+23  Andorra (AND)   0	0	0	0
+23  Aruba (ARU)     0	0	0	0
+23  Slovenia (SLO)  0	0	0	0
